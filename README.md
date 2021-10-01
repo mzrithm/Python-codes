@@ -1,10 +1,10 @@
-# Python Codes For Beginners
+# Python Code For Beginners
 
 ![print-148915914](https://user-images.githubusercontent.com/72150854/97144315-3b22e380-178a-11eb-8c6b-0b76dd5de5cc.jpg)
 
-This project aims to give you some knowledge based on pyhton-3.
-These code is implemented in pyhton-3.Here is many python codes, that you should try.
-For a new learner these codes are very helpful.
+This project aims to give you some knowledge based on python-3.
+This code is implemented in python-3. There is a lot of python code that you should try.
+For a new learner, this code is very helpful.
 
 # Python language
 Python is an open source programming language that was made to be easy-to-read and powerful. A Dutch programmer named Guido van Rossum made Python in 1991. He named it after the television show Monty Python's Flying Circus. Many Python examples and tutorials include jokes from the show.
